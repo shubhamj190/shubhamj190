@@ -31,8 +31,10 @@
 <img align="left" alt="rdbms" width="30px" src="https://img.icons8.com/fluent/48/000000/database.png"/>
 <img align="left" alt="Machine learning" width="30px" src="https://img.icons8.com/bubbles/50/000000/combo-chart.png"/>
 
-# Machine learning
-# Anaconda Navigator
+<br />
+
+#### Machine learning
+#### Anaconda Navigator
 
 
 <br />
