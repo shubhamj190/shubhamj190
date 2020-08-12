@@ -1,7 +1,7 @@
 ### Hi there, I'm Shubham - aka tom_mavrick [website] 👋
 
 ## I'm a Developer!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on my health and fitness
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: learn at least 5-6 stacks
