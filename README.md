@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on my health and fitness
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: learn at least 5-6 stacks
-- ⚡ Fun fact: I love to play games and travelling
 
 ### Connect with me:
 
